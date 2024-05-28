@@ -48,7 +48,7 @@ but not limited to:
 * __Efficiency:__ Automates repetitive tasks, which saves time and resources
 * __Scalability:__ Can handle multiple requests simultaneously, which makes it
 suitable for large-scale deployments.
-* __Accessibility: Offers intuitive interface for users, making it easy to integrate
+* __Accessibility:__ Offers intuitive interface for users, making it easy to integrate
 into various applications.
 
 By harnessing the power of ChatGPT, organizations and individuals can enhance
@@ -57,8 +57,8 @@ possible.
 
 ### References:
 
-  * [ChatGPT]:(https://openai.com/chatgpt/)
-  * [ChatGPT Capabilities]:(https://openai.com/index/chatgpt/)
-  * [OpenAI API Documentation]:(https://platform.openai.com/docs)
-  * [Scalability of AI Systems]:(https://arxiv.org/abs/2102.10528)
+  * [ChatGPT](https://openai.com/chatgpt/)
+  * [ChatGPT Capabilities](https://openai.com/index/chatgpt/)
+  * [OpenAI API Documentation](https://platform.openai.com/docs)
+  * [Scalability of AI Systems](https://arxiv.org/abs/2102.10528)
 
