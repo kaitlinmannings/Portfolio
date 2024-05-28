@@ -57,14 +57,8 @@ possible.
 
 ### References:
 
-  * [](https://openai.com/chatgpt/)
-  * [](https://openai.com/index/chatgpt/)
-  * [](https://platform.openai.com/docs)
-  * [](https://platform.openai.com/docs/overview)
-  * [](https://arxiv.org/abs/2102.10528)
+  * [ChatGPT]:(https://openai.com/chatgpt/)
+  * [ChatGPT Capabilities]:(https://openai.com/index/chatgpt/)
+  * [OpenAI API Documentation]:(https://platform.openai.com/docs)
+  * [Scalability of AI Systems]:(https://arxiv.org/abs/2102.10528)
 
-
-
-#### References
-
-- <https://securityscorecard.com/research/deep-dive-into-alphv-blackcat-ransomware/>
