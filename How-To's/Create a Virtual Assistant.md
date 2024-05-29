@@ -36,7 +36,7 @@ Before starting, ensure you have the following:
    source myenv/bin/activate
    ```
 
-   * Note: if you need assistance setting up your virutal environment see [Steup Virtual Environment](https://github.com/kaitlinmannings/Portfolio/blob/main/How-To's/Setup%20Virtual%20Environment.md)
+   * Note: if you need assistance setting up your virutal environment see [Setup Virtual Environment](https://github.com/kaitlinmannings/Portfolio/blob/main/How-To's/Setup%20Virtual%20Environment.md)
 
 ## Creating the Chatbot
 
