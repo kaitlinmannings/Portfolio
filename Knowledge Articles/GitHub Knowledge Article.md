@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-
+[How to clone a repository to computer](how-to-clone-a-repository-to-computer)
 ## Getting Started
 
 ### How to clone a repository to computer
