@@ -7,6 +7,8 @@
   explored are uploading new files from computer to the repository, changing
   the names of folders, and much more.
 
+  *Note: this is a working article
+
 ## Table of Contents
 
 [How to clone a repository to computer](how-to-clone-a-repository-to-computer)
